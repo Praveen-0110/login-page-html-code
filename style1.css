@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(98, 132, 150);
+}
+.outerbox{
+    color: rgb(15, 55, 200);
+    text-align: center;
+   background-color: white;
+   margin-left: 550px;
+   margin-right: 550px;
+   margin-bottom: 150px;
+   margin-top: 50px;
+   border-radius: 12px;
+   padding: 9%;
+
+  
+}
+.facebook {
+  color: rgb(15, 55, 200);
+  text-align: center;
+  margin-top: 10%;
+
+}
+.container{
+    text-align: center;
+   
+}
+button{
+    color: white;
+    background-color: blue;
+}
+.create{
+    color: white;
+    background-color: green;
+}
